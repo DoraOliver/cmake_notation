@@ -28,7 +28,7 @@ int main(int argc, char const *argv[])
 
 ## 2. 进入调试模式
 
-在进入调试模式之前，先编译源代码，如下过程。
+在进入调试模式之前，先编译源代码，如下过程。按ctrl+x 和 ctrl+a进入TUi界面会舒服
 
 普通编译方式
 ```shell
